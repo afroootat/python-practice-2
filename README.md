@@ -1,4 +1,6 @@
   Python Practice
+
+  
 This repository contains beginner-friendly Python scripts focused on learning and practicing core programming concepts such as loops, functions, lists, and user input handling.
 
 ✅ What I Learned
@@ -14,6 +16,8 @@ Accepting and processing user input
 
 Working with Python lists
 
+
+
 📂 Files Included
 🔁 Loop Practice
 sum_to_n.py
@@ -24,6 +28,8 @@ Counts down from a user-given number to 0 using a while loop.
 
 multiplication_table.py
 Prints a multiplication table from 1 to 12 for any number.
+
+
 
 🧠 Function Practice
 greet_user.py
@@ -40,6 +46,9 @@ calculator_function.py
 Accepts two numbers and an operator (+, -, *, /) as input.
 
 Defines a function calculate(num1, num2, operation) that performs the arithmetic operation and prints the result.
+
+
+
 
 🧺 List Practice
 favourite_fruits.py
@@ -66,6 +75,10 @@ Appends each item to the list.
 Displays the completed shopping list.
 Concepts: input(), .append(), print()
 
+
+
+
+
 🎯 Purpose
 This practice reinforces:
 
@@ -78,6 +91,7 @@ Writing conditional logic
 Managing and manipulating lists
 
 Accepting and using user input effectively
+
 
 
 Feel free to explore each file and run the scripts to see how Python handles basic programming logic!
