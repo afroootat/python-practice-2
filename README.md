@@ -4,7 +4,7 @@ This repository contains beginner-friendly Python scripts focused on learning an
 
 ---
 
-## ✅ What I Learned
+##  What I Learned
 
 - How to use `for` loops with `range()`
 - How `while` loops work and when to use them
@@ -15,9 +15,9 @@ This repository contains beginner-friendly Python scripts focused on learning an
 
 ---
 
-## 📂 Files Included
+##   Files Included
 
-### 🔁 Loop Practice
+###  Loop Practice
 
 **`sum_to_n.py`**  
 Calculates the sum of numbers from 1 to a user-defined number using a for loop.
@@ -30,7 +30,7 @@ Prints a multiplication table from 1 to 12 for any number.
 
 ---
 
-### 🧠 Function Practice
+###  Function Practice
 
 **`greet_user.py`**  
 - Prompts the user to enter their name  
@@ -46,7 +46,7 @@ Prints a multiplication table from 1 to 12 for any number.
 
 ---
 
-### 🧺 List Practice
+###  List Practice
 
 **`favourite_fruits.py`**  
 - Creates a list of fruits  
@@ -68,7 +68,7 @@ Prints a multiplication table from 1 to 12 for any number.
 
 ---
 
-## 🎯 Purpose
+##  Purpose
 
 This practice reinforces:
 
